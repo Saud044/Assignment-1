@@ -1,0 +1,178 @@
+* {
+    /* font-family: 'Merriweather', serif; */
+}
+
+.banner {
+    position: relative;
+    width: 1320px;
+    height: 600px;
+    margin: 0 auto;
+    text-align: center;
+
+}
+
+.banner-img {
+    border-radius: 16px;
+    background: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%);
+    filter: brightness(70%);
+}
+
+.bannertext1 {
+    color: white;
+    position: absolute;
+    top: 35%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 20px;
+    font-weight: 600px;
+    font-family: 'Merriweather', serif;
+}
+
+.bannertext2 {
+    color: white;
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 75px;
+    font-family: 'Merriweather', serif;
+}
+
+.bannertext3 {
+    color: white;
+    position: absolute;
+    top: 55%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 75px;
+    font-family: 'Merriweather', serif;
+}
+
+.off {
+    text-align: center;
+    font-size: 88px;
+    color: #F00;
+    font-family: 'Inter', sans-serif;
+    font-weight: 700;
+}
+
+.our-holiday {
+
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 500;
+}
+
+.all-category {
+    color: #070211;
+    text-align: center;
+    font-family: Inter;
+    font-size: 60px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    /* margin-top: -10px; */
+}
+
+.newyear-photo {
+    text-align: center;
+    margin: 50px;
+
+}
+
+.vector-welcome {
+    position: relative;
+    width: 1320px;
+    height: 600px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.vector {
+    text-align: center;
+    margin-top: 50px;
+    filter: brightness(70%);
+}
+
+.welcome-midnight {
+    text-align: left;
+    position: absolute;
+    top: 30%;
+    left: 30%;
+    font-size: 40px;
+    color: white;
+    transform: translate(-50%, -50%);
+    font-family: 'Merriweather';
+}
+
+.Dolor {
+    text-align: left;
+    position: absolute;
+    top: 70%;
+    left: 38%;
+    color: white;
+    transform: translate(-50%, -50%);
+    font-family: 'Merriweather';
+    font-size: 20px;
+}
+
+.group70 {
+    text-align: right;
+    position: absolute;
+    top: 15%;
+    right: 5%;
+}
+
+.parkdiv {
+    margin-top: 100px;
+    background-color: whitesmoke;
+}
+
+.park-hotel {
+    color: #F00;
+    font-family: 'Inter';
+    font-size: 35px;
+    padding: 100px;
+}
+
+.button {
+    width: auto;
+    font-family: 'Inter';
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+    color: white;
+    background-color: #F00;
+    border: 0;
+}
+.offer{
+    text-align: left;
+    margin-top: 100px;
+}
+/* .offertext{
+    color: rgba(7, 2, 17, 0.60)
+    font-family: Inter;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 20px;
+} */
+.ellipse{
+    text-align: center;
+    margin-top: 0px;
+}
+.offer-img1{
+    height: 200px;
+    weight: 200px;
+    margin-top: 150px;
+    margin-left: 270px;
+}
+
+.offer-img2{
+
+    margin-top: 20px;
+    margin-left: 50px;
+}
+
